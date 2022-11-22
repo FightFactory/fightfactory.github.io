@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title:<br><br>
-    text:<br><br><br>
+    title:<br></br>
+    text:<br></br>
     button: Schedule
     buttonlink: "#schedule"
 
