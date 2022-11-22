@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Fight Factory
-    text: World class Muay Thai Kickboxing, Boxing, Brazilian Jiu Jitsu, MMA and Fitness
+    text: World class Muay Thai, Brazilian Jiu Jitsu, MMA and Fitness
     button: Schedule
     buttonlink: "#schedule"
 
